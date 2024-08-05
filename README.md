@@ -8,5 +8,5 @@ Este é o primeiro desafio proposto pelo professor Matheus Fraga (Sujeito Progra
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Autores
-- **Rhuan dos Santos Félix - @RhuanFelix:** - Aluno do curso.
-- **Matheus Fraga - @sujeitoprogramador:** Professor e desenvolvedor do projeto.
+- **Rhuan dos Santos Félix - [@RhuanFelix](https://github.com/RhuanFelix):** - Aluno do curso.
+- **Matheus Fraga - [@sujeitoprogramador](https://github.com/devfraga):** Professor e desenvolvedor do projeto.
